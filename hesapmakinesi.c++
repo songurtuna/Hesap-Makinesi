@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 	int secim;
-	int sayi1, sayi2 , sonuc;
+	double sayi1, sayi2 , sonuc;
 	
 	cout<<"1.sayiyi gir:";
 	cin>>sayi1;
